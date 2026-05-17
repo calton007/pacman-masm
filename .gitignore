@@ -1,0 +1,26 @@
+# MASM/TASM build outputs
+*.obj
+*.exe
+*.com
+*.lst
+*.map
+*.crf
+*.err
+
+# DOSBox generated files
+dosbox*.conf
+stdout.txt
+stderr.txt
+
+# Editor and OS files
+*.bak
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local tool folders
+tools/
+masm/
+tasm/
